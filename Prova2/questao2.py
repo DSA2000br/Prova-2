@@ -1,0 +1,3 @@
+from validacoes import validar_senha
+
+print(validar_senha("piasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"))
